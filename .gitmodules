@@ -1,0 +1,3 @@
+[submodule "mygit"]
+	path = mygit
+	url = git@github.com:qq703048949/mygit.git
