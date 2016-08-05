@@ -1,3 +1,6 @@
 [submodule "mygit"]
 	path = mygit
 	url = git@github.com:qq703048949/mygit.git
+[submodule "testdeploy"]
+	path = testdeploy
+	url = git@github.com:qq703048949/testdeploy.git
